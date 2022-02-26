@@ -1,0 +1,18 @@
+body{
+  background-color: #242424;
+}
+
+h1,h2,h3,h4,h5,h6{
+  color: yellow;
+  font-family: "fantasque sans mono", "sans serif";
+}
+
+p,dt,dd{
+  color: white;
+  font-family: "fantasque sans mono", "sans serif";
+}
+
+#span1{
+  color: red;
+}
+
